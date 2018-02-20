@@ -4,14 +4,11 @@
     },
 
     "variants": {
-    "normal": [{
+      "normal": [{
 
-    }],
-    "inventory": [{
+        }],
+        "inventory": [{
 
-    }]
-}
-}
-
-}
+        }]
+    }
 }
