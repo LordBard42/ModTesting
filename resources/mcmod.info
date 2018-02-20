@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lnm",
+  "name": "NewStuff",
+  "description": "Building great things",
+  "version": ".01",
+  "mcversion": "1.12",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lord_Bard_42"],
+  "credits": "Lord_Bard_42 for building this",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
