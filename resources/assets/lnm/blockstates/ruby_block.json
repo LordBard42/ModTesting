@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": { "model": "lnm:ruby_block" }
+    },
+
+    "variants": {
+    "normal": [{
+
+    }],
+    "inventory": [{
+
+    }]
+}
+}
+
+}
+}
